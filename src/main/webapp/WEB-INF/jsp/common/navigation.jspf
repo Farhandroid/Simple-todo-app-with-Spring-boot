@@ -1,0 +1,11 @@
+
+<nav class="navbar navbar-expand-sm bg-light navbar-light"  style="background-color: #000000;">
+	<a class="navbar-brand" href="#">Farhan</a>
+	<ul class="navbar-nav">
+		<li class="nav-item"><a class="nav-link" href="/login">Home</a></li>
+		<li class="nav-item"><a class="nav-link" href="/list-todos">Todos</a></li>
+	</ul>
+	<ul class="navbar-nav ml-auto">
+		<li><a href="/logout">Logout</a></li>
+	</ul>
+</nav>
